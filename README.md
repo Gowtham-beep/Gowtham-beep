@@ -21,6 +21,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gowtham-beep&show_icons=true&locale=en" alt="gowtham-beep" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gowtham-beep&" alt="gowtham-beep" /></p>
 
-<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=Gowtham-beep&show-other-skills=true" width="auto"></img>
