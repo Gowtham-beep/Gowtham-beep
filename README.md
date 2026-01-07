@@ -47,11 +47,8 @@ A peer-to-peer file sharing system built using **raw Java sockets and multithrea
 ## 📫 Reach Me
 
 - 📧 **Email:** gn86923@gmail.com  
-- 💼 **LinkedIn:** https://linkedin.com/in/gowtham-n  
+- 💼 **LinkedIn:** https://www.linkedin.com/in/gowtham-n-19ab39257/
 - 🧑‍💻 **GitHub:** https://github.com/gowtham-beep
 
 ---
 
-<!-- Optional GitHub Stats (keep or remove) -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=gowtham-beep&layout=compact)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gowtham-beep&show_icons=true)
