@@ -21,7 +21,7 @@ Currently working as a **Software Engineer (Backend / Platform)**, and actively 
 
 ## 🧠 Featured Projects
 
-### **SentinelMesh** — Distributed Uptime & Health Monitoring *(In Progress)*
+### **SentinelMesh** — Distributed Uptime & Health Monitoring  LINK: https://sentinel-mesh-sentinel-mesh.vercel.app/
 A distributed monitoring platform with independent workers and quorum-based verification to eliminate false positives.  
 Focuses on **fault tolerance, idempotent alerting, and control-plane style decision logic**.
 
