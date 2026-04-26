@@ -1,6 +1,6 @@
 # Hi, I’m Gowtham N 👋
 
-![Backend Systems Engineering](https://images.unsplash.com/photo-1555066931-4365d14bab8c?q=80&w=2000&auto=format&fit=crop)
+![Backend Systems Engineering](https://miro.medium.com/v2/resize:fit:1200/1*C2Euk2Dc9H3Pyf7I9WY3cw.png)
 
 **Backend / Platform Systems Engineer**
 
