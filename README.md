@@ -1,5 +1,7 @@
 # Hi, I’m Gowtham N 👋
 
+![Backend Systems Engineering](https://images.unsplash.com/photo-1555066931-4365d14bab8c?q=80&w=2000&auto=format&fit=crop)
+
 **Backend / Platform Systems Engineer**
 
 I build and operate **production-grade backend systems** with a focus on **distributed systems, reliability, real-time communication, and infrastructure ownership**.  
@@ -36,6 +38,17 @@ A peer-to-peer file sharing system built using **raw Java sockets and multithrea
 
 ---
 
+## ✍️ Writing & Blogs
+
+> *"I write to anchor my knowledge and share the 'raw physics' of engineering. From breaking bare-metal storage engines to wrestling with distributed quorum, I document the struggle because that's where the real learning happens."*
+
+Check out my latest technical deep dives here:
+👉 **[Gowtham Writes](https://github.com/Gowtham-beep/Gowtham-Writes)**
+
+**Latest Post:** [I built a message broker from scratch. Here's what broke me.](https://github.com/Gowtham-beep/Gowtham-Writes/blob/main/mini-kafka.md)
+
+---
+
 ## 🛠 Tech Stack
 
 **Languages:** JavaScript, TypeScript, Java (DSA), Python  
@@ -51,6 +64,3 @@ A peer-to-peer file sharing system built using **raw Java sockets and multithrea
 - 📧 **Email:** gn86923@gmail.com  
 - 💼 **LinkedIn:** https://www.linkedin.com/in/gowtham-n-19ab39257/
 - 🧑‍💻 **GitHub:** https://github.com/gowtham-beep
-
----
-
