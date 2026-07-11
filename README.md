@@ -6,12 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="./assets/terminal-header.svg" alt="terminal hero" width="720" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gowtham-beep&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FFB000&icon_color=FFB000&text_color=C9D1D9&border_radius=8" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gowtham-beep&layout=compact&hide_border=true&bg_color=0D1117&title_color=FFB000&text_color=C9D1D9&border_radius=8" alt="Top Languages" height="165" />
+  <img src="./assets/systems-sketch.svg" alt="system design sketch" width="720" />
 </p>
 
 <p align="center">
