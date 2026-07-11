@@ -1,0 +1,49 @@
+<svg width="800" height="260" viewBox="0 0 800 260" xmlns="http://www.w3.org/2000/svg" font-family="'Segoe Print','Bradley Hand','Comic Sans MS',cursive">
+  <defs>
+    <filter id="sketchy" x="-15%" y="-15%" width="130%" height="130%">
+      <feTurbulence type="fractalNoise" baseFrequency="0.018" numOctaves="2" seed="7" result="noise"/>
+      <feDisplacementMap in="SourceGraphic" in2="noise" scale="3.5"/>
+    </filter>
+    <marker id="arrowhead" markerWidth="10" markerHeight="10" refX="7" refY="5" orient="auto">
+      <path d="M0,0 L10,5 L0,10 L3,5 Z" fill="#24292f"/>
+    </marker>
+  </defs>
+
+  <rect width="800" height="260" rx="10" fill="#f4efe3"/>
+
+  <text x="24" y="38" font-size="19" fill="#24292f" transform="rotate(-1 24 38)">how i think about backend systems</text>
+  <text x="24" y="58" font-size="12" fill="#6b6459" font-style="italic" transform="rotate(-1 24 58)">(a system design doodle, not a stock photo)</text>
+
+  <!-- boxes -->
+  <g filter="url(#sketchy)" fill="none" stroke="#24292f" stroke-width="2">
+    <rect x="20" y="100" width="160" height="70" rx="6"/>
+    <rect x="220" y="100" width="160" height="70" rx="6"/>
+    <rect x="420" y="100" width="160" height="70" rx="6"/>
+    <rect x="620" y="100" width="160" height="70" rx="6"/>
+  </g>
+
+  <text x="100" y="140" text-anchor="middle" font-size="16" fill="#24292f">CLIENT</text>
+  <text x="300" y="140" text-anchor="middle" font-size="16" fill="#24292f">API</text>
+  <text x="500" y="140" text-anchor="middle" font-size="16" fill="#24292f">QUEUE</text>
+  <text x="700" y="140" text-anchor="middle" font-size="16" fill="#24292f">WORKER</text>
+
+  <!-- arrows -->
+  <g filter="url(#sketchy)" stroke="#24292f" stroke-width="2" fill="none">
+    <path d="M180,135 L216,135" marker-end="url(#arrowhead)"/>
+    <path d="M380,135 L416,135" marker-end="url(#arrowhead)"/>
+    <path d="M580,135 L616,135" marker-end="url(#arrowhead)"/>
+  </g>
+
+  <text x="198" y="188" text-anchor="middle" font-size="12" fill="#6b6459" transform="rotate(-2 198 188)">sync</text>
+  <text x="398" y="188" text-anchor="middle" font-size="12" fill="#6b6459" transform="rotate(-2 398 188)">async, retries</text>
+  <text x="598" y="188" text-anchor="middle" font-size="12" fill="#6b6459" transform="rotate(-2 598 188)">at-least-once</text>
+
+  <!-- callout -->
+  <g filter="url(#sketchy)" stroke="#b45309" stroke-width="2" fill="none">
+    <ellipse cx="700" cy="60" rx="72" ry="20"/>
+    <path d="M700,80 C700,88 700,92 700,98"/>
+  </g>
+  <text x="700" y="65" text-anchor="middle" font-size="14" fill="#b45309" transform="rotate(2 700 65)">idempotent!</text>
+
+  <text x="780" y="245" text-anchor="end" font-size="13" font-style="italic" fill="#6b6459">— built from scratch, on purpose</text>
+</svg>
