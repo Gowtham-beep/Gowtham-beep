@@ -1,6 +1,24 @@
-# Hi, I'm Gowtham N 👋
+<h1 align="center">Gowtham N</h1>
+<p align="center"><b>Backend / Platform Systems Engineer</b> — self-taught, systems-first</p>
 
-**Backend / Platform Systems Engineer**
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&duration=2600&pause=1200&color=FFB000&background=00000000&center=true&vCenter=true&width=650&lines=Backend+Engineer;Distributed+Systems+Engineer;Building+Kafka+From+Scratch;AI-Native+Infrastructure" alt="typing header" />
+</p>
+
+<p align="center">
+  <img src="./assets/terminal-header.svg" alt="terminal hero" width="720" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Gowtham-beep&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FFB000&icon_color=FFB000&text_color=C9D1D9&border_radius=8" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gowtham-beep&layout=compact&hide_border=true&bg_color=0D1117&title_color=FFB000&text_color=C9D1D9&border_radius=8" alt="Top Languages" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gowtham-beep&hide_border=true&background=0D1117&stroke=FFB000&ring=FFB000&fire=FFB000&currStreakLabel=FFB000&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E&border_radius=8" alt="GitHub Streak" width="60%" />
+</p>
+
+---
 
 I build and operate **production-grade backend systems** with a focus on **distributed systems, reliability, real-time communication, and infrastructure ownership**.
 
